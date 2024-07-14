@@ -17,10 +17,6 @@ Ce projet est un jeu de dés simple implémenté en JavaScript. Il permet à deu
 - CSS
 - JavaScript
 
-## Captures d'écran
-
-![Screenshot](img/screenshot.png)
-
 ## Comment Utiliser
 
 1. Clonez ce repository.
