@@ -1,4 +1,4 @@
-# Dice Game
+# Pig Game
 
 ## Description
 
